@@ -20,9 +20,9 @@ If you would like to contact someone directly I suggest you use our arrange lias
 #### Online Sales Manager
 #### CLX Communications
 
-    Office: 		+44 203 744 8139
+    Office: 	+44 203 744 8139
     Direct Dial: 	+441227 467065
-    Mobile: 		+44 797 228 2337
+    Mobile: 	+44 797 228 2337
     Email: 		Sarah.Cook@clxcommunications.com
     Skype:		cbfsarah
 
