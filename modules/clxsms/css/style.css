@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+#clxsms_content, .clxsms_content {
+	font-size: 1.43em;
+	font-weight: 0;
+	text-align: center;
+}
+
+#virtual_number, .virtual_number {
+	font-weight: bold;
+}

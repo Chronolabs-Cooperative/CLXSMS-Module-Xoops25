@@ -1,0 +1,9 @@
+---------------------------------------------------------------
+ CLXSMS - SMS Module - Version 1.04
+---------------------------------------------------------------
+ * templates/clxsms_index.html - index.php added to URL path as required by Cardboard CLX
+
+---------------------------------------------------------------
+ CLXSMS - SMS Module - Version 1.02 RC
+---------------------------------------------------------------
+ * tested all components seems to be working 100%
