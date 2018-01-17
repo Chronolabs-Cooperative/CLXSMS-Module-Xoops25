@@ -12,7 +12,7 @@ This is an SMS Gateway module for XOOPS 2.5 (Works in conjunction with clxcommun
 
 ## About CLX Communication
 
-CLX Communication are providers of SMS, RCS, Voice, Video, Verification & IoT Connectivity APIs for the World's Most Demanding Enterprises; they are used by Microsoft, Panason, L'Oreal, Air Canada, Viber, Renaut and a huge amount of enterprise as well as small commerical operators for the SMS Solutions and other provision world wide.
+CLX Communication are providers of SMS, RCS, Voice, Video, Verification & IoT Connectivity APIs for the World's Most Demanding Enterprises; they are used by Microsoft, Panasonic, L'Oreal, Air Canada, Viber, Renaut and a huge amount of enterprise as well as small commerical operators for the SMS Solutions and other provision world wide.
 
 If you would like to contact someone directly I suggest you use our arrange liase officer at CLX communication - Sarah Cook, her details are as follows:
 
